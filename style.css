@@ -1,0 +1,26 @@
+ul{
+    list-style-type: none;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    word-spacing: 100px;
+    border-style: groove;
+    border-color: white;
+}
+li{
+    display: inline-block;
+    height: 25px;
+}
+a{
+    text-decoration: none; 
+    color: white;
+    font-size: 20px;
+    
+}
+a:hover{
+    background-color: blue;
+    border-style: groove;
+}
+body{
+    background-color: blue;
+}
